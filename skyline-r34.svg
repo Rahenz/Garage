@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 420">
+<defs><linearGradient id="b" x2="0" y2="1"><stop stop-color="#b9e4ff"/><stop offset="1" stop-color="#397fb8"/></linearGradient><filter id="g"><feGaussianBlur stdDeviation="14"/></filter></defs>
+<ellipse cx="455" cy="340" rx="350" ry="35" fill="#50b8ff" opacity=".3" filter="url(#g)"/>
+<path d="M88 280l50-45 110-22 90-94q25-24 64-24h170q48 0 78 35l74 82 88 30 20 49-14 38H78z" fill="url(#b)" stroke="#dff4ff" stroke-width="7"/>
+<path d="M355 130q17-18 48-18h164q33 0 56 25l51 60H290z" fill="#142f49" stroke="#dff4ff" stroke-width="5"/>
+<path d="M120 270h670M150 244l80-14m455-6 88 20" stroke="#eaf8ff" stroke-width="9" fill="none"/>
+<path d="M250 350h-70m470 0h-65" stroke="#57c5ff" stroke-width="8"/>
+<circle cx="245" cy="345" r="54" fill="#071726" stroke="#a7dfff" stroke-width="10"/><circle cx="245" cy="345" r="23" fill="#a7dfff"/>
+<circle cx="680" cy="345" r="54" fill="#071726" stroke="#a7dfff" stroke-width="10"/><circle cx="680" cy="345" r="23" fill="#a7dfff"/>
+<path d="M710 210l70-10 26 20-94 8" fill="#e9f8ff"/><path d="M110 240l-24 5 10 24 25-3" fill="#e9f8ff"/>
+<text x="450" y="405" text-anchor="middle" font-family="Arial" font-size="18" fill="#d7efff" letter-spacing="5">SKYLINE GT-R R34 INSPIRED</text></svg>

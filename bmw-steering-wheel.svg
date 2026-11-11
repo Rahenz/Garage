@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128">
+<circle cx="64" cy="64" r="59" fill="#111d2a" stroke="#9fc9e8" stroke-width="5"/>
+<circle cx="64" cy="64" r="43" fill="none" stroke="#d8e9f7" stroke-width="10"/>
+<path d="M64 22v27M27 88l28-18M101 88 73 70" stroke="#d8e9f7" stroke-width="11" stroke-linecap="round"/>
+<circle cx="64" cy="64" r="21" fill="#162f49" stroke="#a8d6f6" stroke-width="3"/>
+<text x="64" y="68" font-family="Arial" font-weight="bold" font-size="13" text-anchor="middle" fill="#fff">M</text>
+<path d="M64 7v14" stroke="#e34b52" stroke-width="8" stroke-linecap="round"/></svg>
